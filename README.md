@@ -15,8 +15,9 @@ All foldiers contain the same series of code doing the same task\
 **Code_3** Sets up and run the MCS algorithm\
 **Code_4** Converts the MCS solution into genes and validate that the community can still grow\
 **Code_5** Test solutions on individual knock out to ensure no growth is possible with individual models \
-**Code_6** Allows for the analysis of all valid solution
-**dFBA** Code used to perform phenotypic phase plane analysis and dFBA
+**Code_6** Allows for the analysis of all valid solution\
+**dFBA** Code used to perform phenotypic phase plane analysis and dFBA\
+
 Question? alexandre.tremblay@mail.utoronto.ca
 
 
